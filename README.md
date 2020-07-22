@@ -1,4 +1,4 @@
-# Copied from the realworld [API specs](#https://github.com/gothinkster/realworld/tree/master/api)
+# Copied from the realworld [API specs](https://github.com/gothinkster/realworld/tree/master/api)
 
 
 # RealWorld API Spec
